@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Nothing to see here, move along..
-=======
 ![TTYG](https://raw.github.com/flovan/ttyg/master/ttyg.gif)
 
 #Talk To Your Grid v0.1
@@ -59,4 +56,3 @@ Columns are on-demand, so no CSS is compiled until you ask for it through an `@i
 ````
 
 [Gif source](http://kidmograph.tumblr.com/post/83623951490/lght)
->>>>>>> dev
